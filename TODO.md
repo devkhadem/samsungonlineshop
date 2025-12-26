@@ -1,0 +1,2 @@
+- [x] Replace image sources in accessories.html for all 12 products with matched images from assets/images/acessories/
+- [x] Change back to top button background-color to transparent in galaxy-z.html
